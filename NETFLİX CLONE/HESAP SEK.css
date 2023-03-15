@@ -1,0 +1,68 @@
+.header {
+    background-color:rgb(22, 22, 22);
+} 
+
+.navbar-brand img {
+    width: 50px;
+    margin-top: 13px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.navbar {
+    background-color:rgba(0,0,0,.5);
+}
+
+.dropdown-toggle{
+    color:white;
+}
+
+.navbar-toggler{
+    background-color:red ;
+}
+
+.navbar-toggler-icon{
+    background-color: red;
+}
+
+
+ul{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+ul li {
+    list-style: none;
+    margin-top: .8rem ;
+}
+ 
+ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    color: white;
+}
+
+body {
+    background-color: rgb(219, 185, 185);
+}
+
+a {
+    text-decoration: none;
+}
+
+.clr {
+    border-radius: 0%;
+    color: rgb(61, 44, 44);
+    background-color: rgba(196, 144, 144, 0.473);
+}
+
+.foyter {
+    background-color: black;
+    height: 100vh;
+}
+

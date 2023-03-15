@@ -1,0 +1,87 @@
+.header {
+    background-color:rgb(22, 22, 22);
+} 
+body {
+    background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url(/arkaplan.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar-brand img {
+    width: 50px;
+    margin-top: 13px;
+}
+
+.navbar {
+    background-color:rgba(0,0,0,.5);
+}
+
+.dropdown-toggle{
+    color:white;
+}
+
+.navbar-toggler{
+    background-color:red ;
+}
+
+.navbar-toggler-icon{
+    background-color: red;
+}
+
+.header-row {
+    height: 80vh;
+}
+
+
+.texs h3 {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.texs h1 {
+    font-size:5em;
+}
+
+img:hover{
+    transform: scale(1.1);
+}
+
+
+ul{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+ul li {
+    list-style: none;
+    margin-top: .8rem ;
+}
+ 
+ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    color: white;
+}
+
+.foyter {
+    background-color: rgba(0,0,0,.5);
+}
+.mt-5 {
+    font-size: 13px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.body-2 {
+    background-color: rgb(34, 32, 32);
+}
+
+.foyter {
+    background-color: rgb(34, 32, 32);
+    
+}

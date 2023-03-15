@@ -1,0 +1,70 @@
+body {
+    background: radial-gradient(rgba(0,0,0.5), rgba(0,0,0,.5)), url(/arkaplan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card {
+    background-color: rgb(26, 22, 22);
+}
+.text-center {
+    text-align: start!important;
+}
+.barfit {
+    text-align: center;
+    font-size: 18px;
+    color: rgb(129, 123, 123);
+}
+
+.capcha {
+    text-align: center;
+    font-size: 18px;
+    color: rgb(129, 123, 123);
+    margin-top: 2em;
+}
+
+
+ul{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+ul li {
+    list-style: none;
+    margin-top: .8rem ;
+}
+ 
+ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+.foyter {
+    background-color: rgba(0,0,0,.5);
+}
+.mt-5 {
+    font-size: 13px;
+}
+
+
+h1 {
+    font-size: 3.125rem;
+    margin: 0 auto;
+    max-width: 640px;
+}
+h3 {
+    font-size: 1.125rem;
+    font-weight: bold;
+}
